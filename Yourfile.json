@@ -11,10 +11,11 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-        {
+    {
         "device_id": "eaf33934e0734d3d",
-        "key": "MASUD12345",
-        "expirydate": "25-11-2025",
-        "Allowoffline": false
-        }
+        "key": "Masud1234",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    }
+        
 ]
